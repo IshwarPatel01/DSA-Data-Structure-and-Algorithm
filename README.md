@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -32,9 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
