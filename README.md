@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
+| [1013-fibonacci-number](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -84,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
