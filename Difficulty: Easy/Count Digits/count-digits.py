@@ -20,10 +20,6 @@ class Solution:
                 count += 1
         return count
 
-
-
-
-
 #{ 
  # Driver Code Starts
 #Initial Template for Python 3
