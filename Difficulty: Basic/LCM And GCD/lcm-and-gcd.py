@@ -17,7 +17,7 @@ class Solution:
         gcd_value = gcd(a, b)
     
     # Calculate the LCM using the formula: LCM(a, b) = |a * b| / GCD(a, b)
-        lcm_value = abs(a * b) // gcd_value
+        lcm_value = a * b // gcd_value
 
         return [lcm_value, gcd_value]
 
