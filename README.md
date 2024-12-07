@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0035-search-insert-position) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## String
 |  |
 | ------- |
@@ -94,4 +97,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/1013-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
