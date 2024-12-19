@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0014-longest-common-prefix) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Trie
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Recursion
 |  |
 | ------- |
