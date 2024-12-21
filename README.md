@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0228-summary-ranges) |
+| [0283-move-zeroes](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
