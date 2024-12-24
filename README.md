@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Recursion
 |  |
 | ------- |
