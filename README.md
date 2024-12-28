@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Trie
 |  |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
