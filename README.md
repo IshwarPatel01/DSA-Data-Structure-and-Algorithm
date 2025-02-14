@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0344-reverse-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Trie
 |  |
