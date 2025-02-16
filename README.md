@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
