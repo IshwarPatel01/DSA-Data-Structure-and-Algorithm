@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0383-ransom-note) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0383-ransom-note) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Recursion
 |  |
 | ------- |
