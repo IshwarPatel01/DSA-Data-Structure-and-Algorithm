@@ -1,16 +1,21 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        n = len(nums)
-        arr_set = sorted(set(nums))
-        k = len(arr_set)
+        # n = len(nums)
+        # arr_set = sorted(set(nums))
+        # k = len(arr_set)
 
-        for i in range(k):
-            nums[i] = arr_set[i]
+        # for i in range(k):
+        #     nums[i] = arr_set[i]
         
-        return k
+        # return k
             
-
-
+        i = 0
+        n = (len(nums))
+        for j in range(1,n):
+            if nums[j] != nums[i]:
+                nums[i + 1] = nums[j]
+                i += 1
+        return i + 1
             
 
 
