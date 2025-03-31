@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0228-summary-ranges) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
