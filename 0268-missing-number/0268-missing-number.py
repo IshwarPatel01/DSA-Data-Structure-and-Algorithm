@@ -1,16 +1,16 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
         n = len(nums)
-        hash_map = [0] * (n + 1)
+        hash_map = {}
 
-        for i in range(len(nums)):
-            hash_map[nums[i]] += 1
-        
-        for i in range(len(hash_map)):
-            if hash_map[i] == 0:
+        for i in nums:
+            hash_map[i] = True
+
+        for i in range(n):
+            if i not in hash_map:
                 return i
             
-        return len(hash_map)
+        return n
 
 
 
