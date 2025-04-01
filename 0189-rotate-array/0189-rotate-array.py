@@ -9,20 +9,29 @@ class Solution:
         #     temp[new_index] = nums[i]
 
         # nums[:] = temp
+        # n = len(nums)
+        # k = k % n
+
+        # nums.reverse()
+
+        # nums[:k] = reversed(nums[:k])
+        # nums[k:] = reversed(nums[k:])
+
         n = len(nums)
         k = k % n
 
-        nums.reverse()
+        temp = nums[-k:] if k != 0 else []
 
-        nums[:k] = reversed(nums[:k])
-        nums[k:] = reversed(nums[k:])
+        for i in range(n-1,k-1,-1):
+            nums[i] = nums[i-k]
+
+        for i in range(k):
+            nums[i] = temp[i]
+        
 
                     
 
 
         
 
-        """
-        Do not return anything, modify nums in-place instead.
-        """
         
