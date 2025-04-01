@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Math
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
@@ -87,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## String
@@ -129,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
