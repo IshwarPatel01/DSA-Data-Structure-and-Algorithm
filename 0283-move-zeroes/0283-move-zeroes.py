@@ -1,10 +1,20 @@
 class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
-        left = 0
-
-        for right in range(len(nums)):
-            if nums[right] != 0:
-                nums[right], nums[left] = nums[left], nums[right]
-                left += 1
-        
+        n = len(nums)
+        count = 0
+        j = 0
+        # temp = nums[0]
+        for i in range(n):
+            if nums[i] != 0:
+                nums[i - j] = nums[i]
+            else:
+                count += 1
+                j += 1
+        for i in range(n-j,n):
+            nums[i] = 0
         return nums
+
+
+
+
+
