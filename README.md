@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/0485-max-consecutive-ones) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/IshwarPatel01/DSA-Data-Structure-and-Algorithm/tree/master/3242-count-elements-with-maximum-frequency) |
