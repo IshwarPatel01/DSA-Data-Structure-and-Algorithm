@@ -1,9 +1,7 @@
-class Solution(object):
-    def singleNumber(self, nums):
-        # Initialize the unique number...
-        uniqNum = 0
-        # TRaverse all elements through the loop...
-        for idx in nums:
-            # Concept of XOR...
-            uniqNum ^= idx
-        return uniqNum;       # Return the unique number...
+class Solution:
+    def singleNumber(self, nums: List[int]) -> int:
+        result = 0
+        for num in nums:
+            result ^= num
+        return result
+        
