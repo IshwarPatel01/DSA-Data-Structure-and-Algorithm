@@ -9,3 +9,4 @@ class Solution:
         if n == 2:
             return 1
         return self.nthFibonacci(n - 1) + self.nthFibonacci(n - 2)
+        
